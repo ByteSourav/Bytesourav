@@ -1,18 +1,26 @@
-<h1 align="center">Hi 👋, I'm Sourav Kumar Biswas</h1>
-<h3 align="center">A Computer Science student.</h3>
+# Hi there 👋, my name is Sourav Kumar Biswas
+#### I am a student of Computer Science
+![I am a student of Computer Science](https://github.com/ByteSourav/untitled/blob/main/github%20profile.png?raw=true)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bytesourav" alt="bytesourav" /></a> </p>
+"🚀 Coding with Passion | Turning Ideas into Reality | Constantly Learning, Creating, Innovating 💻 #CodePassion"
 
-- 🌱 I’m currently learning **C Language**
+Skills: C language
 
-- 📫 How to reach me **souravkumarbiswas2002@gmail.com**
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning C language 
+- 📫 How to reach me: souravkumarbiswas2002@gmail.com 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sourav-kumar-biswas-68525b27b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sourav-kumar-biswas-68525b27b" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ByteSourav)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/  sourav-kumar-biswas-68525b27b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Sourav Biswas)  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bytesourav&show_icons=true&locale=en&layout=compact" alt="bytesourav" /></p>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ByteSourav)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ByteSourav)  
+
+![GitHub metrics](https://metrics.lecoq.io/ByteSourav)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=ByteSourav)  
+
+![Profile views](https://gpvc.arturio.dev/ByteSourav)  
