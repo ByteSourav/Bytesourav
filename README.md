@@ -1,5 +1,5 @@
-![I am a student of Computer Science](https://github.com/ByteSourav/untitled/blob/main/github%20profile.png?raw=true)
 # Hi there 👋, my name is Sourav Kumar Biswas
+![I am a student of Computer Science](https://github.com/ByteSourav/untitled/blob/main/github%20profile.png?raw=true)
 #### I am a student of Computer Science
 "🚀 Coding with Passion | Turning Ideas into Reality | Constantly Learning, Creating, Innovating 💻 #CodePassion"
 
